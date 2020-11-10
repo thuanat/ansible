@@ -1,0 +1,8 @@
+---
+# Database system variables
+mysqlservice: mysqld
+mysql_port: 3306
+dbuser: wp_user
+dbname: wp_db
+upassword: 123@123Aa
+masterpassword: root@123
